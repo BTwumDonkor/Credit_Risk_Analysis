@@ -13,7 +13,7 @@ The models adopted within the project includes:
 6. Easy Ensemble Classifier 
 
 
-Tools used were Python, imbalanced-learn library, scikit-learn library and jupyter notebook. The dataset analiysed was `LoanStats_2019Q1.csv`.
+Tools used were Python, imbalanced-learn library, scikit-learn library and jupyter notebook. The dataset analyzed was `LoanStats_2019Q1.csv`.
 
 ## Results: 
 * Random Over Sampler
@@ -66,5 +66,5 @@ It can be observed that this model had a balanced accuracy score of approximatel
 
 
 ## Summary: 
-Based on the results from all six machine learning models, one can conclude that the Easy Ensemble Classifier modely yielded the best results with the highest balanced accuracy score of approximately 93% coupled with high precision and sensitivity rates. One must not that the original dataset had approximately 99% of its loan applicants classified as low-risk with the remaining 1% as high-risk. Since the data is heavily skewed, one can suspect machine learning predictions to be skewed as well.
+Based on the results from all six machine learning models, one can conclude that the Easy Ensemble Classifier modely yielded the best results with the highest balanced accuracy score of approximately 93% coupled with high precision and sensitivity rates. One must note that the original dataset had approximately 99% of its loan applicants classified as low-risk with the remaining 1% as high-risk. Since the data is heavily skewed, one can suspect machine learning predictions to be skewed as well.
 
